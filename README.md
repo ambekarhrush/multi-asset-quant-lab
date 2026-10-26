@@ -1,9 +1,11 @@
 # Multi-Asset Quant Lab
 
-**Three questions every multi-asset portfolio manager has to answer: which signals survive costs,
-which risk premia are worth the risk, and what crash protection really costs. Plus a fourth project
-that puts an LLM analyst on top of the research, one that can only quote numbers the research
-produced.**
+**I built this to settle three questions I'd want answered before running a multi-asset book:
+which signals still work after trading costs, which risk premia are worth holding, and what crash
+protection actually costs. The answers come from backtests on public data, and I kept the failures
+in: rolling puts, for one, made the worst drawdown deeper. On top of the research sits an LLM
+analyst that can only quote numbers the backtests produced, and it shows its working under every
+answer.**
 
 Public data only (Yahoo Finance ETFs, FRED) · one look-ahead-proof backtester · 11 tests ·
 backtests 1993–2026 · results snapshot dated 26 October 2026
