@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-10-31 (month-to-date)",
+  "weights": {
+    "Equal weight": {
+      "FX carry": 0.143,
+      "FX momentum": 0.143,
+      "FX value": 0.143,
+      "Equity momentum": 0.143,
+      "Equity value": 0.143,
+      "Defensive (BAB)": 0.143,
+      "Rates carry": 0.143
+    },
+    "Inverse vol": {
+      "FX carry": 0.152,
+      "FX momentum": 0.147,
+      "FX value": 0.16,
+      "Equity momentum": 0.126,
+      "Equity value": 0.166,
+      "Defensive (BAB)": 0.099,
+      "Rates carry": 0.15
+    },
+    "Equal risk contribution": {
+      "FX carry": 0.098,
+      "FX momentum": 0.102,
+      "FX value": 0.126,
+      "Equity momentum": 0.205,
+      "Equity value": 0.186,
+      "Defensive (BAB)": 0.123,
+      "Rates carry": 0.16
+    },
+    "Style risk budget (25% each)": {
+      "FX carry": 0.09,
+      "FX momentum": 0.098,
+      "FX value": 0.112,
+      "Equity momentum": 0.225,
+      "Equity value": 0.158,
+      "Defensive (BAB)": 0.164,
+      "Rates carry": 0.153
+    }
+  },
+  "risk_contribution_style_budget": {
+    "FX carry": 0.06,
+    "FX momentum": 0.055,
+    "FX value": 0.089,
+    "Equity momentum": 0.226,
+    "Equity value": 0.232,
+    "Defensive (BAB)": 0.142,
+    "Rates carry": 0.196
+  },
+  "risk_contribution_by_style": {
+    "Carry": 0.256,
+    "Defensive": 0.142,
+    "Momentum": 0.281,
+    "Value": 0.321
+  }
+}

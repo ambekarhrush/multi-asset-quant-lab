@@ -1,0 +1,58 @@
+{
+  "as_of": "2026-10-26",
+  "trend_score": {
+    "SPY": 1.0,
+    "IWM": 0.5,
+    "EFA": 0.0,
+    "EEM": -0.5,
+    "SHY": 1.0,
+    "IEF": -0.5,
+    "TLT": 0.0,
+    "TIP": -0.5,
+    "LQD": -0.5,
+    "HYG": 0.0,
+    "GLD": -0.5,
+    "DBC": 1.0
+  },
+  "macro_states_z": {
+    "growth": 0.27,
+    "inflation": 0.29,
+    "conditions": 0.09,
+    "curve": 0.37
+  },
+  "macro_prior_score": {
+    "SPY": 0.07,
+    "IWM": 0.07,
+    "EFA": 0.07,
+    "EEM": 0.07,
+    "SHY": -0.23,
+    "IEF": -0.23,
+    "TLT": -0.23,
+    "TIP": -0.17,
+    "LQD": 0.03,
+    "HYG": 0.03,
+    "GLD": 0.1,
+    "DBC": 0.19
+  },
+  "vix": 19.45,
+  "vix_vix3m": 0.94970703125,
+  "vol_exposure": {
+    "term_structure": 1.0,
+    "vol_target": 1.3627250148376837,
+    "vrp": 1.225266728072908
+  },
+  "trend_weights": {
+    "SPY": 0.233,
+    "IWM": 0.086,
+    "EFA": 0.0,
+    "EEM": -0.057,
+    "SHY": 1.945,
+    "IEF": -0.267,
+    "TLT": 0.0,
+    "TIP": -0.363,
+    "LQD": -0.237,
+    "HYG": 0.0,
+    "GLD": -0.057,
+    "DBC": 0.145
+  }
+}

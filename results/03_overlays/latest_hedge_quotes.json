@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-10-26",
+  "spx": 7696.02978515625,
+  "vix": 19.45,
+  "quotes": {
+    "90% 1m put": {
+      "strike": 6926.4,
+      "model_vol": 0.2595,
+      "premium_pct_spot": 0.0024,
+      "annualised_cost_if_rolled": 0.0291
+    },
+    "95% 1m put": {
+      "strike": 7311.2,
+      "model_vol": 0.2169,
+      "premium_pct_spot": 0.0067,
+      "annualised_cost_if_rolled": 0.0805
+    },
+    "100% 1m put": {
+      "strike": 7696.0,
+      "model_vol": 0.1765,
+      "premium_pct_spot": 0.0194,
+      "annualised_cost_if_rolled": 0.2323
+    }
+  },
+  "sizing": {
+    "-0.5": {
+      "strike": 1.0,
+      "hedge_ratio": 0.5,
+      "Worst episode DD": -0.46162757407737454,
+      "Full-sample MaxDD": -0.5064443640144901,
+      "Calm cost p.a.": 0.056242089937232675,
+      "CAGR": 0.06311939132884437
+    },
+    "-0.45": {
+      "strike": 1.0,
+      "hedge_ratio": 0.75,
+      "Worst episode DD": -0.41276639105515733,
+      "Full-sample MaxDD": -0.5219583751253589,
+      "Calm cost p.a.": 0.08391297009633414,
+      "CAGR": 0.0403916931550361
+    },
+    "-0.4": {
+      "strike": 1.0,
+      "hedge_ratio": 1.0,
+      "Worst episode DD": -0.3614400695370791,
+      "Full-sample MaxDD": -0.5401578634957973,
+      "Calm cost p.a.": 0.11126284492730742,
+      "CAGR": 0.017585555573312206
+    },
+    "unhedged_worst_episode_DD": -0.5518946106485674
+  }
+}

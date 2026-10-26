@@ -1,0 +1,12 @@
+,GFC,COVID,2022
+FX carry,-0.228,-0.137,0.025
+FX momentum,-0.064,0.075,0.113
+FX value,0.283,-0.114,0.032
+Equity momentum,0.273,0.094,0.114
+Equity value,-0.064,-0.146,0.332
+Defensive (BAB),0.196,0.011,0.021
+Rates carry,0.115,-0.216,0.224
+Equal weight,0.203,-0.168,0.308
+Inverse vol,0.239,-0.137,0.294
+Equal risk contribution,0.323,-0.087,0.294
+Style risk budget (25% each),0.324,-0.082,0.283

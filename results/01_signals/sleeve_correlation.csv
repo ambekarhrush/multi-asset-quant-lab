@@ -1,0 +1,4 @@
+,Trend,Macro (ridge),Vol-timed equity
+Trend,1.0,0.1,-0.09
+Macro (ridge),0.1,1.0,0.12
+Vol-timed equity,-0.09,0.12,1.0

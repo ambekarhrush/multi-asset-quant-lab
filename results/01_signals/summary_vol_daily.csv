@@ -1,0 +1,6 @@
+,CAGR,Vol,Sharpe,Sortino,MaxDD,Calmar,CVaR5,HitRate
+VIX term structure,0.095,0.154,0.668,0.93,-0.432,0.22,-0.024,0.536
+Variance risk premium,0.129,0.212,0.676,0.99,-0.473,0.272,-0.032,0.547
+Vol target 15%,0.09,0.15,0.65,0.889,-0.3,0.299,-0.023,0.547
+Term structure + vol target,0.093,0.147,0.678,0.934,-0.367,0.253,-0.023,0.547
+SPY buy & hold,0.095,0.197,0.562,0.792,-0.546,0.175,-0.03,0.547

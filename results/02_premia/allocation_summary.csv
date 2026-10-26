@@ -1,0 +1,5 @@
+,CAGR,Vol,Sharpe,Sortino,MaxDD,Calmar,CVaR5,HitRate
+Equal weight,0.018,0.108,0.222,0.338,-0.481,0.038,-0.066,0.525
+Inverse vol,0.022,0.107,0.259,0.399,-0.447,0.05,-0.066,0.521
+Equal risk contribution,0.026,0.104,0.301,0.459,-0.421,0.063,-0.063,0.542
+Style risk budget (25% each),0.03,0.105,0.333,0.51,-0.4,0.074,-0.064,0.538
